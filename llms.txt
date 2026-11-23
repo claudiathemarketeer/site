@@ -3,12 +3,15 @@
 > Especialista em marketing digital B2B (marca e performance) e formadora certificada (CCP, IEFP) em inteligência artificial aplicada ao marketing. Ourém, Fátima e Leiria, e online em todo o país. Línguas de trabalho: português e inglês.
 
 ## Páginas
-- [Início](https://claudiapereira.pt/): formação em marketing B2B, IA aplicada ao marketing e agentes de IA; artigos publicados; contacto.
-- [Sobre mim](https://claudiapereira.pt/sobre-mim.html): percurso (jornalismo, comunicação, MBA, marketing global), ferramentas, certificações e perguntas frequentes.
+- [Início](https://claudiathemarketeer.netlify.app/): formação em marketing B2B, IA aplicada ao marketing e agentes de IA; artigos publicados; contacto.
+- [Sobre mim](https://claudiathemarketeer.netlify.app/sobre-mim.html): percurso (jornalismo, comunicação, MBA, marketing global), ferramentas, certificações e perguntas frequentes.
+
+- [She Shares #5](https://claudiathemarketeer.netlify.app/she-shares-5.html): as minhas respostas na newsletter She Leads #5 (29 de setembro de 2026).
 
 ## Factos
+- Colunista de opinião na revista Marketeer (marketing, comunicação empresarial e inteligência artificial): https://marketeer.sapo.pt/colunista/claudia-pereira/ . Artigo mais recente: "A primeira Black Friday da IA", 21 de novembro de 2026.
 - Mais de 8 anos em marketing digital B2B.
 - Formação: marketing digital B2B; IA aplicada ao marketing (ChatGPT, Claude, Gemini, Copilot, NotebookLM, Perplexity); agentes de IA.
 - Formação presencial em Ourém, Fátima e Leiria; live training em Portugal e na Europa; horário pós-laboral e/ou fim de semana.
 - Certificações: AEO Fundamentals (2026), Digital Advertising Certified (2026), Social Media Marketing II (2026), Google Practical AI for Marketing (2025), In-Depth GA4 Analytics (2024).
-- Pedidos de proposta: formulário de contacto em https://claudiapereira.pt/#contacto
+- Pedidos de proposta: formulário de contacto em https://claudiathemarketeer.netlify.app/#contacto
